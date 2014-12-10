@@ -216,4 +216,4 @@ pip-log.txt
 .mr.developer.cfg
 
 #django setting files
-Django_OAuth/settings.py
+Django_OAuth/Django_OAuth/settings.py
